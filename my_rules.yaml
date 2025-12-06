@@ -1,0 +1,2 @@
+rules:
+- IP-CIDR6,2606:4700:a0::/44,DIRECT
