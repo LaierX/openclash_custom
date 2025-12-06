@@ -1,3 +1,4 @@
 payload:
 - IP-CIDR6,2606:4700:a0::/44
 - IP-ASN,13335
+- SRC-IP-ASN,13335
