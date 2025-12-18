@@ -1,3 +1,4 @@
 payload:
 - DOMAIN-SUFFIX,gofile.io
 - IP-CIDR,5.28.195.0/24
+- DOMAIN-KEYWORD,capcut
