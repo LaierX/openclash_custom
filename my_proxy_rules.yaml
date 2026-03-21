@@ -11,6 +11,6 @@ payload:
 - DOMAIN-SUFFIX,build.nvidia.com
 - DOMAIN-SUFFIX,api.factory.ai
 - DOMAIN-SUFFIX,downloads.factory.ai
-- DOMAIN-SUFFIX,aixj.vip
+##- DOMAIN-SUFFIX,aixj.vip
 - DOMAIN-SUFFIX,huggingface.co
 - DOMAIN-SUFFIX,xethub.hf.co
