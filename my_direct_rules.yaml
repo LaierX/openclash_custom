@@ -2,6 +2,7 @@ payload:
 - IP-CIDR6,2606:4700:a0::/44
 - DOMAIN-WILDCARD, store-*.gofile.io
 - DOMAIN,api.gofile.io
+- DOMAIN,iysgc.com
 ##- DOMAIN,vivox.com
 ##- DOMAIN,vxcp.com
 ##- DOMAIN,unity3d.com
